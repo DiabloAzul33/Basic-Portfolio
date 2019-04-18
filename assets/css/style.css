@@ -1,9 +1,9 @@
 
 
-body {
+div {
     /* Box-model */
-    padding: 0;
-    text-align: center;
+    padding: 400;
+    text-align: left;
     width: 960px;
 
     /* Positioning */
@@ -13,23 +13,22 @@ body {
     /* Typography */
     color: #777777;
     font-size: 18px;
-
 }
 
 header {
     /* Box-model */
-    padding: 5px 0;
-    width: 300px;
-
+    padding: 2px 0;
+    width: 275px;
 
     /* Positioning */
     font-family: 'Georgia', 'Times New Roman', Times, serif;  
-    margin-left: 100px;
+    margin-left: 200px;
 
     /* Typography */
     background-color: #4aaaa5;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 16px;
+    text-align: center;
 }
 
 footer {
